@@ -1,6 +1,6 @@
 {
   "name": "date-formatter-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple utility to format dates from user-friendly input",
   "main": "index.cjs",
   "module": "index.mjs",
@@ -17,7 +17,14 @@
     "date-parser.mjs",
     "README.md"
   ],
-  "keywords": ["date", "formatter", "date parsing", "date utils", "convert date", "string to date"],
+  "keywords": [
+    "date",
+    "formatter",
+    "date parsing",
+    "date utils",
+    "convert date",
+    "string to date"
+  ],
   "author": "Pritiranjan Swain",
   "license": "MIT"
 }
